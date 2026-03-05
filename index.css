@@ -1,0 +1,14 @@
+P{ font: size 14px;}
+button {
+  background-color: lightblue;
+  border: 1px solid lightblue;
+  padding: 10px 20px;
+  cursor: pointer;}
+h2{padding-left: 100px;
+   padding-right: 100px;}
+article{
+  background-color: darkorchid;
+  border: 1px solid lightsteelblue;
+  padding: 10px;
+  margin: 10px;}
+
